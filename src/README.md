@@ -1,12 +1,12 @@
 Project 1: Tokenizer
 ====================
+
 # Instructions:
 
-You should document your tokenizer in this file.
+> 1. Use **make** in src folder to compile tokenizer
+> 2. Executable "tokenizer" runs with **./tokenizer**
+> 3. Instructions will be prompet in terminal in numerical list.
+> 4. Type **0** to end tokenizer.
 
-This file is written in the refreshingly simple `markdown` text
-formatting language.
+*Note*: To remove object files use **make clean**
 
-To learn about text formatting using markdown, we encourage you to examine 
- - [../README.md](../README.md)
- - the online [Markdown Guide](https://www.markdownguide.org/).
