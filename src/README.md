@@ -8,5 +8,5 @@ Project 1: Tokenizer
 > 3. Instructions will be prompet in terminal in numerical list.
 > 4. Type **0** to end tokenizer.
 
-**Note**: To remove object files use <make clean>
+*Note*: To remove object files use **make clean**
 
